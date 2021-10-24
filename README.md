@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tklarryonline/tklarryonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello there :pray:, I'm Luan
+
+Senior Full-stack engineer at [Redbubble](https://www.redbubble.com).
+Working on Search & Recommendation pipelines.
