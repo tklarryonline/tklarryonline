@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 # Hello there :pray:, I'm Luan
 
-Senior Full-stack engineer at [Redbubble](https://www.redbubble.com).
+Technical Lead at [Redbubble](https://www.redbubble.com).
 Working on Search & Recommendation pipelines.
