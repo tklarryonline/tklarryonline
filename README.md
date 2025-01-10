@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 # Hello there :pray:, I'm Luan
 
-Technical Lead at [Redbubble](https://www.redbubble.com).
-Working on Search & Recommendation pipelines.
+Lead Engineer at [Envato](https://elements.envato.com/). Taking care of the Search Platform and Events Data Pipeline.
